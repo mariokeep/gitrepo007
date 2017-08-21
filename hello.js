@@ -1,8 +1,20 @@
 console.log("HelloWorld");
 var value = 2;
 
-if(value==2){
-    console.log("value is 2");
-}else{
-    console.log("value is not 2");
+switch (value){
+    case 1:
+    console.log("Value is 1");
+    break;
+    case 2:
+    console.log("Value is 2");
+    break;
+    case 3:
+    console.log("Value is 3");
+    break;
+    case 4:
+    console.log("Value is 4");
+    break;
+    case 5:
+    console.log("Value is 5");
+    break;
 }
