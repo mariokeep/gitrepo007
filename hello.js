@@ -18,3 +18,4 @@ switch (value){
     console.log("Value is 5");
     break;
 }
+// i try to check
